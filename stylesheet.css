@@ -1,0 +1,85 @@
+* {
+	box-sizing: border-box;
+	list-style: none;
+	font-family: sans-serif;
+	
+}
+
+body {
+    background: #298eea;
+    font-family: 'Roboto', helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    padding-top: 60px;
+}
+
+.logo {
+	height: 35px;
+	display: block;
+	margin: 0 auto 30px;
+}
+.demo-form {
+	width: 400px;
+	display: block;
+	margin: auto;
+}
+
+h1 {
+	padding: 10px;
+	font-size: 33px;
+	text-align: center;
+}
+
+fieldset {
+	background-color: white;
+}
+
+label {
+	display: block;
+	padding: 15px;
+	margin-left: 10px;
+}
+
+input {
+	width: 320px;
+	height: 55px;
+	display: block;
+	margin: auto;
+	margin-bottom: 20px
+	margin-left: 5px;
+	font-size: 16px;
+}
+
+button {
+	display: block;
+	padding-top:
+	text-align: center;
+	width: 320px;
+	height: 55px;
+	margin: 25px auto 0px;
+	background-color: #1dbc1f;
+	border: 0;
+	font-size: 16px;
+}
+
+.demo-form p {
+	padding: 20px;
+	display: block;
+	text-align: center;
+}
+
+fieldset p {
+	font-size: 12px;
+}
+
+p.have-account {
+	display: block;
+	margin: auto;
+	text-align: center;
+	padding-top: 15px;
+	color: white;
+}
+
+p.have-account a {
+	color: white;
+}
